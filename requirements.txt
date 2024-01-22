@@ -1,0 +1,10 @@
+Flask
+gunicorn
+tensorflow
+numpy
+pillow
+opencv-python
+nltk
+fastapi
+uvicorn
+scikit-learn
